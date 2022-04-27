@@ -10,7 +10,7 @@
         <h3>The BNB Reward Pool with the tastiest daily return and lowest dev fee</h3>
       </div>
       <div class="pt-5 pb-5">
-        <a class="btn-connect-now text-white font-bold py-2 px-4 rounded-full border-4" href="aaa">
+        <a class="btn-connect-now text-white font-bold py-2 px-4 rounded-full border-4" href="https://roastedbeef.io/?ref=0xcd78ff8cfb89f94c456eca3c48b8d37f1d63b92c">
           Connect Wallet
         </a>
       </div>
@@ -51,7 +51,7 @@
       </div>
 
        <div class="pt-5">
-        <a class="btn-connect-now text-white font-bold py-2 px-4 rounded-full border-4">
+        <a class="btn-connect-now text-white font-bold py-2 px-4 rounded-full border-4" href="https://roastedbeef.io/?ref=0xcd78ff8cfb89f94c456eca3c48b8d37f1d63b92c">
           Connect Wallet
         </a>
       </div>
