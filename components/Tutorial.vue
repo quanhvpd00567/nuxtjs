@@ -4,7 +4,7 @@
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8 text-center">
       <div>
-        <img style="margin: 0 auto" src="~static/images/logo.png" alt="" class="w-36">
+        <img style="margin: 0 auto" src="~assets/images/logo.png" alt="" class="w-36">
       </div>
       <div>
         <h3>The BNB Reward Pool with the tastiest daily return and lowest dev fee</h3>
@@ -68,7 +68,7 @@ export default {
 
 <style>
 .wsp {
-  background: url('~static/images/bg.png');
+  background: url('~assets/images/bg.png');
 }
 
 h3{
